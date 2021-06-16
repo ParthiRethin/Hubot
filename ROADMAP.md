@@ -4,6 +4,8 @@ Hubot v3 aims to be a bot framework optimized for developers and developer workf
 
 This roadmap represents some of priorities for us over the next couple months. Issues or pull requests will be opened to discuss each of these items as they progress.
 
+Added one more comment in CLI
+
 ## 1. Return to a “maintained” status
 
 - [x] Create a Hubot core team with at least 2 GitHub employees and at least 1 community member. The core team is [@technicalpickles](https://github.com/technicalpickles), [@bkeepers](https://github.com/bkeepers), [@mose](https://github.com/mose), and [@gr2m](https://github.com/gr2m) ([#1323](https://github.com/github/hubot/pull/1323))

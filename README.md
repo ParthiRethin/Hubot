@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/hubotio/hubot.svg?branch=master)](https://travis-ci.org/hubotio/hubot) [![Coverage Status](https://coveralls.io/repos/github/hubotio/hubot/badge.svg?branch=master)](https://coveralls.io/github/hubotio/hubot?branch=master)
 
 # Hubot
+Hi All, Welcome to the world of DevOps!!!
+
+Added comment in CLI.
 
 Welcome to the first edit in UI.
 
